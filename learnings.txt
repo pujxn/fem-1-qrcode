@@ -1,0 +1,17 @@
+learnings:
+good to add colors to divs to understand structuring
+can add display flex to parent, and then aling items and justify content to center
+vh is viewport size, is important
+always compartmentalise into divs
+flex direction columns is v helpful
+add shadows via border-shadow
+max-height and max-width to avoid spillover outside of div
+margin and size math is important
+100% can be used as width and height to be relative to parent
+ctrl+k+c/u to comment and uncomment
+ctrl+l to select whole line
+
+
+to improve:
+making design responsive
+figuring out the text justification properly
